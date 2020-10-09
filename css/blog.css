@@ -769,7 +769,7 @@ html {
     text-decoration: none;
     float: right;
     font-size: 24px;
-    font-weight: bold;
+    font-weight: bolder;
     color: inherit
   }
   
@@ -803,12 +803,12 @@ html {
   
   .w3-input-group,
   .w3-group {
-    margin-top: 24px;
+    margin-top: 22px;
     margin-bottom: 24px
   }
   
   .w3-input {
-    padding: 8px;
+    padding: 10px;
     display: block;
     border: none;
     border-bottom: 1px solid #808080;
